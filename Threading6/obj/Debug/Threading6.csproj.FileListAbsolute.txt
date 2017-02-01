@@ -1,0 +1,6 @@
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading6\Threading6\bin\Debug\Threading6.exe.config
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading6\Threading6\bin\Debug\Threading6.exe
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading6\Threading6\bin\Debug\Threading6.pdb
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading6\Threading6\obj\Debug\Threading6.csprojResolveAssemblyReference.cache
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading6\Threading6\obj\Debug\Threading6.exe
+C:\Users\nikol\Documents\Visual Studio 2015\Projects\Threading6\Threading6\obj\Debug\Threading6.pdb
